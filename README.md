@@ -10,7 +10,6 @@ Una aplicación sencilla de Android que permite **grabar videos**, almacenarlos 
 - Soporte para **ViewModel** con un **ViewModelFactory** personalizado.
 
 ---
-
 ## Requisitos
 - **Android Studio** 2022.2.1 o superior.
 - SDK mínimo: 24 (Android 7.0 Nougat)
@@ -65,6 +64,11 @@ Para dispositivos con Android 6.0 o superior, los permisos se solicitan en **tie
 
 ## Pruebas
 
+#
+https://github.com/gabo748/VideoAppRecorder/blob/main/Screenshot_20241027_200847.png
+https://github.com/gabo748/VideoAppRecorder/blob/main/Screenshot_20241027_200915.png
+https://github.com/gabo748/VideoAppRecorder/blob/main/Screenshot_20241027_201022.png
+https://github.com/gabo748/VideoAppRecorder/blob/main/Screenshot_20241027_201151.png
 ---
 
 ## Capturas de Pantalla
