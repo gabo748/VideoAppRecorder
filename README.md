@@ -69,7 +69,10 @@ https://github.com/gabo748/VideoAppRecorder/blob/main/Screenshot_20241027_200847
 https://github.com/gabo748/VideoAppRecorder/blob/main/Screenshot_20241027_200915.png
 
 # FUNCIONAMIENTO EN LA PANTALLA PARA GRABAR
-https://github.com/gabo748/VideoAppRecorder/blob/main/Screenshot_20241027_201022.png
+
+
+https://github.com/user-attachments/assets/d97ab447-3970-4987-9ae7-b02d66d3732c
+
 
 # VERIFICACION DE LISTA DE VIDEOS
 https://github.com/gabo748/VideoAppRecorder/blob/main/Screenshot_20241027_201151.png
